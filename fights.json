@@ -1,0 +1,10 @@
+{
+  "event_name": "UFC Freedom 250: Topuria vs. Gaethje",
+  "date": "June 15, 2026",
+  "main_card": [
+    {"f1": "Ilia Topuria", "f2": "Justin Gaethje"},
+    {"f1": "Alex Pereira", "f2": "Ciryl Gane"},
+    {"f1": "Sean O'Malley", "f2": "Aiemann Zahabi"},
+    {"f1": "Josh Hokit", "f2": "Derrick Lewis"}
+  ]
+}
