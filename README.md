@@ -20,3 +20,13 @@ The model doesn't just look at wins and losses; it calculates complex mathematic
 * **Grappling Score:** Derived from takedown accuracy, defense, submission averages, and historical control seconds.
 * **Striking Score:** Evaluates significant strikes landed/absorbed per minute, knockdowns, and defense rates.
 * **Simulation:** Weighs these stats against opponent data to output an overall victory probability and the most likely target scenario (e.g., KO/TKO, Submission, Decision).
+
+## 📊 Project Showcase
+
+### Tales of the Tape (Data Mining)
+S Sherdog'dan veri kazıdığımız ve Tale of the Tape'i jilet gibi gösterdiğimiz canavar ekranı amk:
+<img src="stats.jpg" width="800" alt="Tale of the Tape Screen">
+
+### Win Prediction & Insights
+Yapay zeka modelimizin XGBoost ile yüzde 95 Khabib'e win verdiği, o premium analiz raporu amk:
+<img src="probability.jpg" width="800" alt="Win Probability and Insights Screen">
