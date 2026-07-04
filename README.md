@@ -24,9 +24,7 @@ The model doesn't just look at wins and losses; it calculates complex mathematic
 ## 📊 Project Showcase
 
 ### Tales of the Tape (Data Mining)
-S Sherdog'dan veri kazıdığımız ve Tale of the Tape'i jilet gibi gösterdiğimiz canavar ekranı amk:
 <img src="stats.jpg" width="800" alt="Tale of the Tape Screen">
 
 ### Win Prediction & Insights
-Yapay zeka modelimizin XGBoost ile yüzde 95 Khabib'e win verdiği, o premium analiz raporu amk:
 <img src="probability.jpg" width="800" alt="Win Probability and Insights Screen">
